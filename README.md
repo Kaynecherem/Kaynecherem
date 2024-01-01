@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaynecherem
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in Native Android Development
+- 🌱 I’m a Kotlin Developer
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me kaluchinecherem8@gmail.com
 
 <!---
