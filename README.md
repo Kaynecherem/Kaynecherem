@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kaynecherem
-- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me kaluchinecherem8@gmail.com
 
 <!---
